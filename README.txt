@@ -19,9 +19,10 @@ The controls are simple. Simply tilt your IOS device in the direction that you
 want to proceed. Simply acceloremeter. There are no other controls. 
 
 
-Please contact me if your are interested in retrieving the files.
-I will send you the zip file so it will be easier to run. You simply need the latest version
-of Xcode and a apple's developer id.
+
+If you want to play, just dowload the zip file! You simply need the latest version
+of Xcode and a apple's developer id to port the file to your mobile device. (the computer simulator will only display
+the screen and you won't be able to interact with the character. You need the accelormeter.)
 
 THE MAIN CODE IS IN: myscene.m
 
