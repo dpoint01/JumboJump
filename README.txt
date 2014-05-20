@@ -16,11 +16,14 @@ further your score, so it is in your advantage to try and hit as many as you
 can. 
 
 The controls are simple. Simply tilt your IOS device in the direction that you 
-want to proceed. There are no other controls. 
+want to proceed. Simply acceloremeter. There are no other controls. 
 
-To retrieve the files, simply download the zip (or tar) file that is provided
-in this repository (the final zip file). Upon unzipping, build and run the program through Xcode 5. 
-To run it on your actual IOS device, you will need a developers application. 
+
+Please contact me if your are interested in retrieving the files.
+I will send you the zip file so it will be easier to run. You simply need the latest version
+of Xcode and a apple's developer id.
+
+THE MAIN CODE IS IN: myscene.m
 
 Learning how to program in Objective-C was a challege, and we owe our work to 
 numerous tutorials that we found online. In the end, we compiled what we learn-
